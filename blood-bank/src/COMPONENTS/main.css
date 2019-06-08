@@ -1,0 +1,37 @@
+#form {
+margin-left: 500px;
+margin-top: 100px;
+color: rgba(94, 73, 75, 0.918);
+}
+
+#form > h1 {
+font-family: 'Times New Roman', Times, serif;
+color: blueviolet
+}
+
+#login{
+font-family: 'Times New Roman', Times, serif;
+margin-left: 500px;
+margin-top: 100px;
+color: rgba(94, 73, 75, 0.918);
+}
+
+#login > h1 {
+font-family: 'Times New Roman', Times, serif;
+color: blueviolet
+}
+.width {
+width: 300px;
+}
+.select {
+width: 90px;
+height: 27px;
+color: red;
+font-size: 21px;
+/* margin-left: 60px; */
+}
+
+#rForm {
+margin-left: 450px;
+margin-top: 10px;
+}
